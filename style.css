@@ -1,0 +1,56 @@
+
+body{
+    background-image: linear-gradient(to top right,red,blue);
+   
+    
+    
+}
+
+#div1{
+    position: relative;
+    top: 10%;
+    left: 25%;
+    
+}
+
+
+ul{
+    position: relative;
+    top:300px;
+    left: 27%;
+
+}
+
+.cs{
+    width: 50%;
+    height: 50px;
+    background-color: thistle;
+    margin-bottom:5px;
+    border-radius: 5px;
+    padding-right: 10px;
+    padding-left: 10px;
+   text-align: right;
+   font-weight: bold;
+   border: 3px solid rgb(24, 102, 248);
+
+   
+}
+.xx{
+   
+   background-color: tomato;
+   float: left;
+}
+
+.delete{
+    display: none;
+}
+.green{
+    background-color: rgb(47, 255, 109) ;
+    
+}
+.time_style{
+   text-align: right;
+    font-weight: bold;
+    color: tomato;
+}
+
